@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  survey: one
+  kind: MyString
+  content: MyText
+  x: 1
+  'y': 1
+
+two:
+  survey: two
+  kind: MyString
+  content: MyText
+  x: 1
+  'y': 1
